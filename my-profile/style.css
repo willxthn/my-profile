@@ -1,0 +1,88 @@
+<style>
+      /* CSS styles for the page */ 
+      }
+      body {
+        color: #ffffff;
+      }
+      header h1{
+        background-color: #000000;
+        font-weight: 100;
+        font-size: 400%;
+        font-family: 'Analysis', sans-serif;
+        color: #ffffff;
+        text-align: center;
+        padding: 1.5em;
+      }
+      header h1:hover {
+        color: #acacac;
+      }
+      header p {
+        margin: 0;
+        font-size: 80%;
+        color: #fabebe;
+      }
+      #profile {
+        max-width: 25%;
+        height: auto;
+        display: block;
+        margin: 1% auto;
+        border-radius: 20%;
+        box-shadow: 0 0 10px #ccc;
+      }
+      #essec {
+        max-width: 25%;
+        height: auto;
+        display: block;
+        margin: 1% auto;
+        border-radius: 20%;
+        box-shadow: 0 0 10px #ccc;
+      }
+      .logo {
+        max-width: 50px;
+        border-radius: 30%;
+        box-shadow: 0 0 10px #ccc;
+      }
+      .logo:hover {
+        box-shadow: 0 0 30px #9d9d9d;
+      }
+      .Links {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+      }
+      .box {
+        background-color: #fafafa;
+        padding: 1em;
+        margin-bottom: 1em;
+        border-radius: 10px;
+        box-shadow: 0 0 5px #ccc;
+        width: 800px; /* set the width of your box */
+        margin: 40px auto; 
+      }
+      .box:hover {
+        box-shadow: 0 0 10px #ccc;
+      }
+      .box h2 {
+        font-family: 'Analysis', sans-serif;
+        font-size: 180%;
+        margin-top: 0;
+        margin-bottom: 0.5em;
+        color: #000000;
+      }
+      .box p {
+        margin-top: 0;
+        font-size: 110%;
+        font-family: 'Analysis', sans-serif;
+
+      }
+      .social {
+        list-style: none;
+        display: flex;
+        justify-content: center;
+        margin-top: 0;
+        padding: 0;
+      }
+      .social li {
+        margin-right: 1em;
+      }
+</style>
